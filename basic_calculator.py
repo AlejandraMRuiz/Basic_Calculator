@@ -14,5 +14,3 @@ elif op == "*":
 else:
     print("Invalid operator")
 
-#test 
-#test2
